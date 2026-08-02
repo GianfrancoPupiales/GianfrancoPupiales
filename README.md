@@ -36,7 +36,7 @@
 <tr>
 <td width="58%" valign="top">
 
-Estudiante de **Ingeniería de Software (8.º semestre)** en la **Escuela Politécnica Nacional (EPN)**, actualmente **Backend Intern en NTT DATA** dentro del sector bancario.
+Estudiante de **Ingeniería de Software (9.º semestre)** en la **Escuela Politécnica Nacional (EPN)**, actualmente **Backend Intern en NTT DATA** dentro del sector bancario.
 
 Mi día a día involucra el diseño de **flujos transaccionales** robustos, la operación de **pods** y el análisis de **logs** sobre infraestructura **Azure**. Trabajo bajo metodologías ágiles aplicando **TDD** y **Clean Code** como principios no negociables.
 </td>
