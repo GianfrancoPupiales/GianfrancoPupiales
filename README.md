@@ -44,16 +44,6 @@ Mi día a día involucra el diseño de **flujos transaccionales** robustos, la o
 
 <table align="right">
   <tr>
-    <td align="right" valign="middle"><sub><b>ROLE</b></sub></td>
-    <td>&nbsp;</td>
-    <td valign="middle">Backend Intern</td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><sub><b>COMPANY</b></sub></td>
-    <td>&nbsp;</td>
-    <td valign="middle">NTT&nbsp;DATA</td>
-  </tr>
-  <tr>
     <td align="right" valign="middle"><sub><b>FOCUS</b></sub></td>
     <td>&nbsp;</td>
     <td valign="middle">Spring&nbsp;Boot&nbsp;·&nbsp;Azure</td>
@@ -66,7 +56,7 @@ Mi día a día involucra el diseño de **flujos transaccionales** robustos, la o
   <tr>
     <td align="right" valign="middle"><sub><b>EDUCATION</b></sub></td>
     <td>&nbsp;</td>
-    <td valign="middle">EPN&nbsp;·&nbsp;8th&nbsp;semester</td>
+    <td valign="middle">EPN&nbsp;·&nbsp;9th&nbsp;semester</td>
   </tr>
   <tr>
     <td align="right" valign="middle"><sub><b>LANGUAGES</b></sub></td>
